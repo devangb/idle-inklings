@@ -6,7 +6,6 @@ modified: 2015-11-29
 tags: []
 comments: true
 pinned: true
-author: ankush
 image:
   feature: god_upto.jpg
 ---
