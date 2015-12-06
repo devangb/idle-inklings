@@ -11,7 +11,7 @@ description: A weblog that exists to sustain the literary culture of the campus.
 # Then, the 'url' is: http://yourname.github.io
 # If your project is placed in another repository as a gh-pages branch, like: https://github.com/yourname/projectname
 # Then, the 'url' is: http://yourname.github.io/projectname
-url: http://devangb.github.io/idle-inklings
+url: #http://devangb.github.io/idle-inklings
 
 #
 ###################################
@@ -38,7 +38,7 @@ owner:
   name: Idle Inklings
   avatar: avatar.jpg
   job: Literary Society, IIT Mandi
-  bio: "A web blog that exists to sustain the literary culture of the campus. We bring to you stories from IIT Mandi and beyond."
+  bio: "A weblog that exists to sustain the literary culture of the campus. We bring to you stories from IIT Mandi and beyond."
   email: editorial.iitmandi@gmail.com
   disqus-shortname: 
   twitter: #username
