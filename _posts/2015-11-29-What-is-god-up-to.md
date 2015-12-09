@@ -3,7 +3,7 @@ layout: post
 title: What is God up to?
 excerpt: "A mere mortal trying to gauge the intentions of God and question them, somethings  which  have intrigued men since the beginning of humanity."
 modified: 2015-11-29
-tags: []
+tags: [Stories from the campus]
 comments: true
 pinned: true
 author: ankush
