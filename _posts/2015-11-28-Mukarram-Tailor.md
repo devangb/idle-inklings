@@ -3,8 +3,8 @@ layout: post
 title: Humans of IIT Mandi - Mukarram Tailor
 modified: 2015-11-27
 tags: [Humans of IIT Mandi]
-comments: false
-pinned: false
+comments:
+pinned:
 author: litsoc
 image:
   feature: mukarram_tailor.jpg

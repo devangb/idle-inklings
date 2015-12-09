@@ -5,7 +5,7 @@ excerpt: "The wreckage created by the Chennai floods wasn't limited to the city.
 modified: 2015-12-07
 tags: [Under the lens]
 comments: true
-pinned: false
+pinned:
 author: 
 image:
 ---
